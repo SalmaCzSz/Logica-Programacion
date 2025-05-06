@@ -1,5 +1,5 @@
 Algoritmo MatrizSumaParImpar
-	Imprimir "Proporciona el tamaño de la matriz: "
+	Imprimir "Proporciona el número de filas: "
 	Leer renglones
 	Imprimir "Proporciona el número de columnas: "
 	Leer columnas
