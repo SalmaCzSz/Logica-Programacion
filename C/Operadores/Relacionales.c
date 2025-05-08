@@ -28,7 +28,7 @@ int main() {
 	printf("\n¿A es menor que B? %d", c);
 	
 	// menor o igual
-	c = a >= b;
+	c = a <= b;
 	printf("\n¿A es menor o igual que B? %d", c);
 	
 	return 0;
