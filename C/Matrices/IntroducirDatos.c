@@ -18,6 +18,7 @@ int main() {
 		}
 	}
 	
+	printf("\n\nValores matriz:5");
 	for(int ren = 0; ren < renglones; ren++){
 		for(int col = 0; col < columnas; col++){
 			printf("\nDato [%d][%d]: %d", ren, col, matriz[ren][col]);
